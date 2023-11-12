@@ -1,1 +1,1 @@
-# NLP-2022
+# my homeworks NLP-2022 - iust
